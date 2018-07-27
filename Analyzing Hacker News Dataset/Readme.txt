@@ -3,13 +3,13 @@ In this dataset we will be analyzing the dataset from Hacker News and will try t
 * submission_time: when the story was published
 * upvotes: number of upvotes the submission got 
 * url: the base domain of the submission 
-* headline: the headline of the submission. Users can edit this, and it doesn’t have to match the headline of the article
+* headline: the headline of the submission. Users can edit this, and it doesnâ€™t have to match the headline of the article
 My submission consists of five ?.py files. The description of each file is given below:
-(1) read.py – Contains (load_data) function to read he .csv file (which is without header). I have imported this file in rest of thee files to build the dataframe using load_data function 
-(2) domains.py – File to explore the domains where most articles were submitted. 
-(3) count.py – contains code to find out which words (& how many time) were used the most in the headlines
-(4)  time.py – From this file I have analyzed at what hour of the day and the month of the year most articles are published
-(5) upvotes.py – Here I have tried to find out the variation of upvotes on the posts depending on their hour of publication and also length (number counts) of the headlines 
+(1) read.py â€“ Contains (load_data) function to read he .csv file (which is without header). I have imported this file in rest of thee files to build the dataframe using load_data function 
+(2) domains.py â€“ File to explore the domains where most articles were submitted. 
+(3) count.py â€“ contains code to find out which words (& how many time) were used the most in the headlines
+(4)  time.py â€“ From this file I have analyzed at what hour of the day and the month of the year most articles are published
+(5) upvotes.py â€“ Here I have tried to find out the variation of upvotes on the posts depending on their hour of publication and also length (number counts) of the headlines 
 Findings: 
 o The 10 most used word in the headlines were:
 to     1448
