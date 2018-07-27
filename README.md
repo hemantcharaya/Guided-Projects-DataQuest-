@@ -1,1 +1,1 @@
-This Repository contiains my solution for the Dataquest's guided-projects 
+This Repository contains my solutions for the Dataquest's guided-projects 
