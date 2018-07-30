@@ -1,6 +1,6 @@
                                                 Analyzing Hacker News Dataset
 
-In this dataset we will be analyzing the dataset from Hacker News and will try to find out (1) amount of published articles in each month of the year and each hour of the day (2) Most used words in the headlines of the articles (3) variation of upvotes with word count of headlines and hour of the day (4) the number of articles published in each domain.  This dataset consists of four columns; the description of which is given below
+In this project we'll be analyzing the dataset from Hacker News and will try to find out (1) amount of published articles in each month of the year and each hour of the day (2) Most used words in the headlines of the articles (3) variation of upvotes with word count of headlines and hour of the day (4) the number of articles published in each domain.  This dataset consists of four columns; the description of which is given below
 * submission_time: when the story was published
 * upvotes: number of upvotes the submission got 
 * url: the base domain of the submission 
